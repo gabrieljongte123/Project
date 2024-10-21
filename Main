@@ -3,75 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My IWT Lab Assignments</title>
-    <link rel="stylesheet" href="style.css">
-    <style>
-        /* Internal CSS for quick setup */
-        body {
-            font-family: Arial, sans-serif;
-            background-image: url('background.png'); /* Add the background image */
-            background-size: cover;
-            color: white;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            text-align: center;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 20px;
-        }
-
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        nav ul li {
-            display: inline-block;
-            margin-right: 15px;
-        }
-
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-size: 18px;
-        }
-
-        section#labs {
-            margin: 50px;
-        }
-
-        section#labs h2 {
-            text-align: center;
-            color: #ffffff;
-        }
-
-        section#labs ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        section#labs ul li {
-            margin: 10px 0;
-            font-size: 20px;
-        }
-
-        section#labs ul li a {
-            color: #ffffff;
-            text-decoration: none;
-        }
-
-        footer {
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            text-align: center;
-            padding: 20px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+    <title>Project</title>
+    <link rel="stylesheet" href="style.css"> <!-- Ensure this file exists if used -->
 </head>
 <body>
     <header>
@@ -81,14 +14,10 @@
     <section id="labs">
         <h2>Lab Assignments</h2>
         <ul>
-            <li><a href="Lab1.html">Lab Assignment 1</a></li>
-            <li><a href="Lab2.html">Lab Assignment 2</a></li>
-            <li><a href="Lab3.html">Lab Assignment 3</a></li>
-            <li><a href="Lab4.html">Lab Assignment 4</a></li>
-            <li><a href="Lab5and6.html">Lab Assignment 5 and 6</a></li>
-            <li><a href="Lab7.html">Lab Assignment 7</a></li>
-            <li><a href="Lab8.html">Lab Assignment 8</a></li>
-            <li><a href="Lab8-2.html">Lab Assignment 8-2</a></li>
+            <li><a href="Lab1/index.html">Lab Assignment 1</a></li>
+            <li><a href="Lab2/index.html">Lab Assignment 2</a></li>
+            <li><a href="Lab3/index.html">Lab Assignment 3</a></li>
+            <!-- Add other lab links accordingly -->
         </ul>
     </section>
 
