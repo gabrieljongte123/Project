@@ -1,0 +1,66 @@
+css
+Copy code
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.png');
+    background-size: cover;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section#labs {
+    margin: 50px;
+}
+
+section#labs h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+section#labs ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section#labs ul li {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+section#labs ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
