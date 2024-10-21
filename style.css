@@ -1,5 +1,7 @@
-css
-Copy code
+a {
+    color:black;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-image: url('background.png');
